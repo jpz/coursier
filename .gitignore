@@ -2,5 +2,8 @@ target/
 .idea/
 node_modules/
 
+.ensime
+.ensime_cache/
+
 # tut backups?
 .*.swp
